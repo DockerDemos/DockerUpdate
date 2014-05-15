@@ -25,7 +25,7 @@ Alternatively-alternatively, you can add `~/dockerbin/` to your $PATH:
 
 ...and run Docker using the regular `docker` command. (This will preempt any other versions of Docker you might have installed via packages.)
 
-###What is broken with this script?###
+###What is wrong with this script?###
 
 There's a lot that can be tweaked and made fancier/safer/better.  Like, a lot.  I'll be doing some of that over time.  I'd LOVE it if you submitted patches, too!
 
