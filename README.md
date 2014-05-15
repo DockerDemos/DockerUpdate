@@ -27,7 +27,7 @@ Alternatively-alternatively, you can add `~/dockerbin/` to your $PATH:
 
 ###What is broken with this script?###
 
-There's a lot that can be tweaked and made fancier/safer/better.  Like, alot.  I'll be doing some of that over time.  I'd LOVE it if you submitted patches, too!
+There's a lot that can be tweaked and made fancier/safer/better.  Like, a lot.  I'll be doing some of that over time.  I'd LOVE it if you submitted patches, too!
 
 ###What is wrong with you?###
 
