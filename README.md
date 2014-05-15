@@ -3,11 +3,11 @@ DockerUpdate
 
 Embarrassingly simple bash scrip for getting and running the latest version of Docker
 
-###What does this script do?###
+##What does this script do?##
 
 The script will download the latest Docker binary to a directory in your homedir, and run it in daemon mode.
 
-###How do I  use Docker after running the script?###
+##How do I  use Docker after running the script?##
 
 Refer to the full path (~/dockerbin/docker) when running your Docker commands, like so:
 
@@ -25,11 +25,11 @@ Alternatively-alternatively, you can add `~/dockerbin/` to your $PATH:
 
 ...and run Docker using the regular `docker` command. (This will preempt any other versions of Docker you might have installed via packages.)
 
-###What is wrong with this script?###
+##What is wrong with this script?##
 
 There's a lot that can be tweaked and made fancier/safer/better.  Like, a lot.  I'll be doing some of that over time.  I'd LOVE it if you submitted patches, too!
 
-###What is wrong with you?###
+##What is wrong with you?##
 
 What's not, really?
 
